@@ -1,0 +1,146 @@
+{
+    "status": "ok",
+    "totalResults": 10,
+
+    "articles": [
+        {
+            "source": {
+                "id": "bbcnews",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Tonga volcano: Internet restored five weeks after eruption",
+            "description": "The Pacific island nation was cut off from the world for weeks after an undersea volcano erupted.",
+            "url": "http://www.bbc.co.uk/news/worldasia60458303",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/115F2/production/_123345117_7bee0722391b44b09ab4d167e5ecbdb3.jpg",
+            "publishedAt": "20220222T09:37:23.023256Z",
+            "content": "Image source, AUSTRALIA DEFENCE FORCE\r\nImage caption, The underwater internet cable has finally been restored\r\nThe submarine internet cable connecting Tonga to the rest of the world has been repaired… [+2376 chars]"
+        },
+
+        {
+            "source": {
+                "id": "bbcnews",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Putin's angry speech rewriting Ukraine's history",
+            "description": "In an hourlong televised speech, the Russian leader made accusations, grievances and challenges.",
+            "url": "http://www.bbc.co.uk/news/worldeurope60458300",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/5DE2/production/_123343042_7dac87ab0ed64159aece6523b1ca9f7d.jpg",
+            "publishedAt": "20220222T08:07:23.3643543Z",
+            "content": "Russian president Vladimir Putin's latenight televised speech from the Kremlin, just hours after talks of a summit, was laced with anger, historical grievances and challenges to the West, The BBC's … [+3897 chars]"
+        },
+
+        {
+            "source": {
+                "id": "bbcnews",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "OnlyFans accused of conspiring to blacklist rivals",
+            "description": "​​OnlyFans is accused of conspiring with an unidentified social media company to disable accounts of adult performers working for rivals.",
+            "url": "http://www.bbc.co.uk/news/world60029508",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/5530/production/_123280812_newonlyfans_02.nc.jpg",
+            "publishedAt": "20220222T06:52:18.5355941Z",
+            "content": "By Noel TitheradgeBBC News Investigations\r\nOnlyFans has been accused of conspiring to blacklist the social media accounts of adult performers working for rival websites, BBC News has learned.\r\nLegal … [+8652 chars]"
+        },
+
+        {
+            "source": {
+                "id": "bbcnews",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Covid: Australia's border reopens to international visitors",
+            "description": "It allows tourists to enter and families to reunite for the first time in nearly two years.",
+            "url": "http://www.bbc.co.uk/news/worldaustralia60457735",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/70DC/production/_123329882_gettyimages1238656658.jpg",
+            "publishedAt": "20220222T06:22:24.3571722Z",
+            "content": "Media caption, Watch emotional scenes as Australias border opens\r\nAustralia has reopened its international border for the first time in nearly two years, bringing joyful family reunions and a boost t… [+2470 chars]"
+        },
+
+        {
+            "source": {
+                "id": "bbcnews",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Petrópolis: A perfect storm of weather extremes and deep inequality",
+            "description": "Floods in Petrópolis have exposed the dangerous conditions that residents live with everyday.",
+            "url": "http://www.bbc.co.uk/news/world60473918",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/CA70/production/_123342815_carine1.jpg",
+            "publishedAt": "20220222T04:37:20.2544113Z",
+            "content": "By Katy WatsonBBC South America correspondent\r\nImage source, Getty Images\r\nImage caption, More than 100 people have died in landslides in the Brazilian city of Petrópolis\r\nWhen the rainstorm hit Petr… [+4118 chars]"
+        },
+
+        {
+            "source": {
+                "id": "bbcnews",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "IPCC: Climate change report to sound warning on impacts",
+            "description": "The study will focus heavily on how warming hurts regions as well as cities and coastal communities.",
+            "url": "http://www.bbc.co.uk/news/scienceenvironment60431081",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/184B7/production/_123311599_gettyimages1273798024.jpg",
+            "publishedAt": "20220222T02:37:22.3948346Z",
+            "content": "By Matt McGrathEnvironment correspondent\r\nImage source, Getty Images\r\nA new report on the impacts of climate change will likely be the most worrying assessment yet of how rising temperatures affect e… [+5593 chars]"
+        },
+
+        {
+            "source": {
+                "id": "bbcnews",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Asia stocks fall as UkraineRussia tensions climb",
+            "description": "Japan's Nikkei 225 index fell almost 2%, while the Kospi in South Korea lost 1.4% in early trading.",
+            "url": "http://www.bbc.co.uk/news/business60473233",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/2020/production/_123342280_gettyimages1231522583.jpg",
+            "publishedAt": "20220222T01:52:20.943929Z",
+            "content": "Image source, Getty Images\r\nAsian stocks slipped on Tuesday on fears that escalating UkraineRussia tensions will impede economic recovery.\r\nJapan's Nikkei 225 index fell almost 2%, while the Kospi i… [+1910 chars]"
+        },
+
+        {
+            "source": {
+                "id": "bbcnews",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Russia recognises Ukraine separatist regions",
+            "description": "The move from Vladimir Putin raises fears that Russian troops could be sent into the regions in eastern Ukraine.",
+            "url": "http://www.bbc.co.uk/news/worldeurope60468237",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/F53F/production/_123338726_hi074048001.jpg",
+            "publishedAt": "20220221T20:52:22.4889157Z",
+            "content": "Image caption, A Ukrainian serviceman holds a machine gun at a town in Donetsk, one of two breakaway regions\r\nRussia's Vladimir Putin says he is recognising breakaway rebel regions in Ukraine's east … [+1335 chars]"
+        },
+
+        {
+            "source": {
+                "id": "bbcnews",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Covid: PM sets out end of legal restrictions in England",
+            "description": "The £500 isolation payment for people on low incomes is among measures ending this week.",
+            "url": "http://www.bbc.co.uk/news/uk60467183",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/A409/production/_123339914_hi074020820.jpg",
+            "publishedAt": "20220221T17:22:20.1057394Z",
+            "content": "All Covid restrictions will end in England on Thursday and free mass lateral flow testing will stop on 1 April, Boris Johnson has said.\r\nThe prime minister told the Commons the legal requirement to s… [+3218 chars]"
+        },
+
+        {
+            "source": {
+                "id": "bbcnews",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "UkraineRussia crisis: US claims Russia has invasion kill list",
+            "description": "The US has told the UN it has evidence that Russia has a list of people in Ukraine to be killed or detained if it invades.",
+            "url": "http://www.bbc.co.uk/news/live/worldeurope60454795",
+            "urlToImage": "https://m.files.bbci.co.uk/modules/bbcmorphnewswafpagemeta/5.2.0/bbc_news_logo.png",
+            "publishedAt": "20220221T07:52:26.4342264Z",
+            "content": "US officials say they have intelligence reports suggesting that Russia has a hitlist of Ukrainians\r\n\"to be killed or sent to camps\" in the event of an invasion, US media has reported. \r\nIn a letter … [+765 chars]"
+        }
+    ]
+}
